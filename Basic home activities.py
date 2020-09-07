@@ -21,7 +21,7 @@ except sr.RequestError as e:
 
 #if X == 'open the door' :
     
-    #webbrowser.open('http:192.168.43.34/toggle1')
+    #webbrowser.open('http:192.168.43.34/toggle1') //local IP address created
     
 #if X == 'light on' :
  #   
