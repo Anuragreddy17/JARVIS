@@ -1,2 +1,3 @@
 # JARVIS
-A daily friend and always loyal to you
+Its a voice controlled home project using speech recognition.
+
